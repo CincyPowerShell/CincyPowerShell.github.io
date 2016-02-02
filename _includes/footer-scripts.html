@@ -10,8 +10,8 @@
   {% endfor %}
 {% endif %}
 
-{% if page.js %}
-  {% for js in page.js %}
+{% if layout.js %}
+  {% for js in layout.js %}
 	<script src="{{ js | prepend: site.baseurl | replace: '//', '/' }}"></script>
   {% endfor %}
 {% endif %}
