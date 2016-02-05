@@ -15,14 +15,13 @@
 
   {% include gtm_head.html %}
 
-  <!-- TODO hardcode the required JS because on 2016-02-01 GitHub pages migrated to jekyll 3 and broke this template -->
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" />
-<link rel="stylesheet" href="/beautiful-jekyll/css/bootstrap.min.css" />
-<link rel="stylesheet" href="/beautiful-jekyll/css/main.css" />
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
-  <!-- end TODO -->
+ <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
 
+  {% if page.common-ext-css %}
+    {% for css in page.common-ext-css %}
+      <link rel="stylesheet" href="{{ css }}" />
+    {% endfor %}
+  {% endif %}  
   {% if layout.common-ext-css %}
     {% for css in layout.common-ext-css %}
       {% include ext-css.html css=css %}
