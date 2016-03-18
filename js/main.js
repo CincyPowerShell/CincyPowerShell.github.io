@@ -24,7 +24,6 @@ var main = {
     $('#main-navbar').on('hidden.bs.collapse', function () {
       $(".navbar").removeClass("top-nav-expanded");
     });
-
     // On mobile, when clicking on a multi-level navbar menu, show the child links
     $('#main-navbar').on("click", ".navlinks-parent", function(e) {
       var target = e.target;
@@ -80,7 +79,6 @@ var main = {
 	  var src = imgInfo.src;
 	  var desc = imgInfo.desc;
   	  main.setImg(src, desc);
-
 	  // For better UX, prefetch the next image so that it will already be loaded when we want to show it
   	  var getNextImg = function() {
 	    var imgInfo = main.getImgInfo();
@@ -95,7 +93,6 @@ var main = {
                   var img = $("<div></div>").addClass("big-img-transition").css("background-image", 'url(' + src + ')');
   		  $(".intro-header.big-img").prepend(img);
   		  setTimeout(function(){ img.css("opacity", "1"); }, 50);
-
 		  // after the animation of fading in the new image is done, prefetch the next one
   		  //img.one("transitioned webkitTransitionEnd oTransitionEnd MSTransitionEnd", function(){
 		  setTimeout(function() {
@@ -113,18 +110,15 @@ var main = {
 	  }
     }
   },
-
   getImgInfo : function() {
   	var randNum = Math.floor((Math.random() * main.numImgs) + 1);
     var src = main.bigImgEl.attr("data-img-src-" + randNum);
 	var desc = main.bigImgEl.attr("data-img-desc-" + randNum);
-
 	return {
 	  src : src,
 	  desc : desc
 	}
   },
-
   setImg : function(src, desc) {
 	$(".intro-header.big-img").css("background-image", 'url(' + src + ')');
 	if (typeof desc !== typeof undefined && desc !== false) {
