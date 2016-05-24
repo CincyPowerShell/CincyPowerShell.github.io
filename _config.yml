@@ -66,7 +66,7 @@ footer-link-col: "#404040"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: CincyPSUG
-  email: "CincyPSUG@outlook.com"
+  email: "info@cincypowershell.org"
   facebook: CincyPowerShell  # eg. daattali
   github: CincyPowerShell    # eg. daattali
   twitter: CincyPowerShell   # eg. daattali
