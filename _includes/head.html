@@ -15,8 +15,6 @@
 
   {% include gtm_head.html %}
 
- <!-- everything has to be repeated twice because on 2016-02-01 GitHub pages migrated to jekyll 3; see bug https://github.com/jekyll/jekyll/issues/4439 -->
-
   {% if page.common-ext-css %}
     {% for css in page.common-ext-css %}
       <link rel="stylesheet" href="{{ css }}" />
@@ -96,6 +94,7 @@
   <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
   
+<<<<<<< HEAD
 
   <!-- Twitter summary cards -->
   <meta name="twitter:card" content="summary" />
@@ -124,4 +123,14 @@
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
   {% endif %}
 
+=======
+  {% if page.fb-img %}
+  <meta property="og:image" content="{{ page.fb-img }}" />
+  {% elsif site.avatar %}
+  <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
+  {% else %}
+  <meta property="og:image" content="" />
+  {% endif %}
+  
+>>>>>>> This merge wit the origin did not work, reverting back to previous
 </head>
