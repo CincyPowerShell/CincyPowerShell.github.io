@@ -14,12 +14,14 @@
         The quick brown fox leaps over the lazy red dog
             The quick brown fox leaps over the lazy red dog
 
+# User Settings (Ctrl+,) Workspace Settings
+
 # Snippets Intellisense
 # Text Selection (Shift+Alt+Left and Shift+Alt+Right)
 # Folding
 
 #Peek (Alt+F12 /  F12)
-. .\test-function.ps1
+. .\presentations\2017-05\code\test-function.ps1
 
 Test-Function -Param1 sun -Param2 1
 
@@ -32,13 +34,10 @@ param ($myParam
 echo "here is my code"
 gi Env:\APPDATA
                      }
+# Zen Mode - (Ctrl+K Z)
+
 # Tasks - Build and Release - examples
 Start-Process code -Verb RunAs
 
-# Zen Mode - (Ctrl+K Z)
 
-#Tasks
-
-
-# User Settings (Ctrl+) Workspace Settings
 

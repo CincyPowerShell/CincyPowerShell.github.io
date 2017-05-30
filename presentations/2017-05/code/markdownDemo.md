@@ -95,4 +95,37 @@ Other VCS'es should be supported soon, new SCM APIs in VS Code 1.11.
 - You can run your psake or Invoke-Build scripts!
 - Output goes to Output window unless you use the new terminal runner (set `version` to `2.0.0`)
 
+## Extensions
+
+### Finding and Installing Extensions
+
+To browse extensions, launch the Extensions pane by clicking the icon in the
+left sidebar or pressing <kbd>Ctrl+Shift+X</kbd>.
+
+Click the `...` and click "Show Recommended Extensions" or "Show Popular Extensions" to
+find recommended and popular extensions.
+
+Click the green "Install" button to install.  A "Reload" will be required to
+activate the extension.
+
+To automatically update extensions, you configure `extensions.autoUpdate` to `true`.
+
+### Cool Extensions
+
+- [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+
+Check out other [popular extensions](https://marketplace.visualstudio.com/vscode) on
+the Visual Studio Marketplace!
+
+
 ## PowerShell Debugging
+- For basic PowerShell script debugging, just press F5!
+- For everything else, you can create a `launch.json` configuration
+- Debugging a specific script file
+- Debugging modules
+- Debugging Pester tests ("Interactive Session" configuration)
+- Column breakpoints, stepping into pipelines
+  - `Get-Process | % { Write-Host $_.Name }`
