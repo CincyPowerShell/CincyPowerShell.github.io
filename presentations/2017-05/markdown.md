@@ -53,6 +53,8 @@ Lots of new info - Check Don's posts from last week
 
 ???
 Adam Bertram / Ashley McGlone - 3 hours of content!
+--
+[Matt Mcnabb - A simple Release Pipleline](https://mattmcnabb.github.io/appveyor-ci-plaster)
 ---
 
 ### .center[VSCode - Everything you need to get started!]
