@@ -74,25 +74,23 @@ Lightweight / Fast
 
 ---
 ### .center[References/Links]
--	[VSCode Docs](https://code.visualstudio.com/docs)
+-   [VSCode Docs](https://code.visualstudio.com/docs)
 -   [Default Shortcuts](https://code.visualstudio.com/docs/getstarted/keybindings#_keyboard-shortcuts-reference)
-- [VSCode Source code](https://github.com/PowerShell/vscode-powershell)
--	[VS Code Tips and Tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
+-   [VSCode Source code](https://github.com/PowerShell/vscode-powershell)
+-   [VS Code Tips and Tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
 -   [Visual Studio Code Insiders](https://code.visualstudio.com/insiders)
--	David Wilson - VSCode Deepdive [Recording](https://www.youtube.com/watch?v=qmO9X96v5kM&index=5&list=PLfeA8kIs7CoeQRT1xwtH-I3cfDvm8rNlk) & [Presentation](https://gist.github.com/daviwil/c28af0d545e83831b9d5b6a269b0e4c3)
-- [Matt McNabb - Plaster and VSCode](https://mattmcnabb.github.io/appveyor-ci-plaster)
+-   David Wilson - VSCode Deepdive [Recording](https://www.youtube.com/watch?v=qmO9X96v5kM&index=5&list=PLfeA8kIs7CoeQRT1xwtH-I3cfDvm8rNlk) & [Presentation](https://gist.github.com/daviwil/c28af0d545e83831b9d5b6a269b0e4c3)
+-   [Matt McNabb - Plaster and VSCode](https://mattmcnabb.github.io/appveyor-ci-plaster)
 -   [Steve Murawski - VSCode & Git settings](https://stevenmurawski.com/powershell/2017/02/vscode-settings/)
+---
+### .center[References/Links - continued]
 -   [Trevor Sullivan - Why use VSCode](https://trevorsullivan.net/2017/02/24/use-visual-studio-code-write-powershell/)
-- [Keith Hill - Pipeline example in VSCode](https://rkeithhill.wordpress.com/2016/03/10/preview-of-module-build-and-publish-with-visual-studio-code-and-the-powershell-extension/)
-- [Get started with PowerShell development in Visual Studio Code](https://blogs.technet.microsoft.com/heyscriptingguy/2016/12/05/get-started-with-powershell-development-in-visual-studio-code/)
-
-- [Visual Studio Code editing features for PowerShell development – Part 1](https://blogs.technet.microsoft.com/heyscriptingguy/2017/01/11/visual-studio-code-editing-features-for-powershell-development-part-1/)
-
-- [Visual Studio Code editing features for PowerShell development – Part 2](https://blogs.technet.microsoft.com/heyscriptingguy/2017/01/12/visual-studio-code-editing-features-for-powershell-development-part-2/)
-
-- [Debugging PowerShell script in Visual Studio Code – Part 1](https://blogs.technet.microsoft.com/heyscriptingguy/2017/02/06/debugging-powershell-script-in-visual-studio-code-part-1/)
-
-- [Debugging PowerShell script in Visual Studio Code – Part 2](https://blogs.technet.microsoft.com/heyscriptingguy/2017/02/13/debugging-powershell-script-in-visual-studio-code-part-2/)
+-   [Keith Hill - Pipeline example in VSCode](https://rkeithhill.wordpress.com/2016/03/10/preview-of-module-build-and-publish-with-visual-studio-code-and-the-powershell-extension/)
+-   [Get started with PowerShell development in Visual Studio Code](https://blogs.technet.microsoft.com/heyscriptingguy/2016/12/05/get-started-with-powershell-development-in-visual-studio-code/)
+-   [Visual Studio Code editing features for PowerShell development – Part 1](https://blogs.technet.microsoft.com/heyscriptingguy/2017/01/11/visual-studio-code-editing-features-for-powershell-development-part-1/)
+-   [Visual Studio Code editing features for PowerShell development – Part 2](https://blogs.technet.microsoft.com/heyscriptingguy/2017/01/12/visual-studio-code-editing-features-for-powershell-development-part-2/)
+-   [Debugging PowerShell script in Visual Studio Code – Part 1](https://blogs.technet.microsoft.com/heyscriptingguy/2017/02/06/debugging-powershell-script-in-visual-studio-code-part-1/)
+-   [Debugging PowerShell script in Visual Studio Code – Part 2](https://blogs.technet.microsoft.com/heyscriptingguy/2017/02/13/debugging-powershell-script-in-visual-studio-code-part-2/)
 ---
 
 ### .center[Future Meeting Dates]
