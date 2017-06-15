@@ -1,1 +1,27 @@
+---
+layout: post
+title: 'June 20th 6PM - Pester testing with Matt McNabb'
+---
 
+## Cincinnati PowerShell User Group – Pester testing with Matt McNabb
+
+### When: June 20th – 6PM TUESDAY!
+
+### Where: [Max Technical Training, Mason, OH](https://goo.gl/maps/ijBGbvJQR3B2)
+
+### Sign up here: [Cincy PSUG Meetup](https://www.meetup.com/TechLife-Cincinnati/events/240208038/)
+
+```powershell
+PS C:\> Get-PSUG | where {$_.City -eq Cincinnati}
+```
+
+### *Pester testing with Matt McNabb*
+
+Are you writing PowerShell scripts to manage production environments? Are you doing everything you can to protect those environments?  Pester is an open-source framework for testing PowerShell projects that will help you ensure your PowerShell project is production-ready. Come join us on June 20th at 6:00 PM to find out why and how you should be using Pester to test your PowerShell code, and more.
+
+## Sponsor:
+
+SAPIEN Technologies will be sponsoring the Cincinnati PowerShell User Group meeting and will be supplying the pizza!
+
+{: .center }
+![Sapien](http://cincypowershell.org/img/sapien.jpeg)
