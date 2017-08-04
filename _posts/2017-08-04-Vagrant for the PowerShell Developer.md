@@ -3,7 +3,7 @@ layout: post
 title: 'Cincinnati PowerShell User Group – August Meeting - Vagrant for the PowerShell developer with Alex McFarland'
 ---
 
-## Cincinnati PowerShell User Group – August Meeting - Vagrant for the PowerShell developer with Alex McFarland
+## August 17th 2017 - Vagrant for the PowerShell developer with Alex McFarland
 
 ### When: August 17th – 6PM THURSDAY!
 
