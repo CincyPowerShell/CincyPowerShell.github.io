@@ -1,19 +1,18 @@
 ---
 layout: post
-title: 'Cincinnati PowerShell User Group – August Meeting - Vagrant for the PowerShell developer with Alex McFarland'
+title: 'August 17th 6PM - Vagrant for the PowerShell developer with Alex McFarland'
 ---
 
-## August 17th 2017 - Vagrant for the PowerShell developer with Alex McFarland
+## Vagrant for the PowerShell developer with Alex McFarland
 
 ### When: August 17th – 6PM THURSDAY!
 
 ### Where: [Max Technical Training, Mason, OH](https://goo.gl/maps/ijBGbvJQR3B2)
 
-
 ### Sign up here: [Cincy PSUG Meetup](https://www.meetup.com/TechLife-Cincinnati/events/242274677/)
 
 ## LIVE STREAM Available!!!
--   For the first time we will be live streaming our meetup! If you can't be there in person for free pizza, please join us on Google HangOuts @6:30PM.  Watch our twitter feed [@CincyPowerShell](https://twitter.com/CincyPowerShell) for the live link once its available!
+For the first time we will be live streaming our meetup! If you can't be there in person for free pizza, please join us on Google HangOuts @6:30PM.  Watch our twitter feed [@CincyPowerShell](https://twitter.com/CincyPowerShell) for the live link once its available!
 
 ```powershell 
 PS C:\> Get-PSUG | where {$_.City -eq Cincinnati -or $_.TheInternets -eq $true}
