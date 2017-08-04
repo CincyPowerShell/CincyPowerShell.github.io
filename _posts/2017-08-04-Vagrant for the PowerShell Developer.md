@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vagrant for the PowerShell developer with Alex McFarland'
+title: 'Cincinnati PowerShell User Group – August Meeting - Vagrant for the PowerShell developer with Alex McFarland'
 ---
 
 ## Cincinnati PowerShell User Group – August Meeting - Vagrant for the PowerShell developer with Alex McFarland
