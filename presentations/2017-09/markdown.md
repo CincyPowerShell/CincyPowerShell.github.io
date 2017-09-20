@@ -55,11 +55,11 @@ Why do I care?  Follow these people.  They blog, they are smart, they are the ne
 
 ### .center[Future Meeting Dates]
 
-- Thursday, October ??
+- October ??
 
-- Thursday, November ??
+- November ??
 
-- Thursday, December ??
+- December ??
 ---
 
 # Thanks for Coming!
