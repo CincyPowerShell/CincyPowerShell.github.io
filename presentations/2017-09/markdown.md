@@ -26,10 +26,17 @@ We can't do it without them, please take time to thank them!
 ### .center[PowerShell News]
 --
 
--	[PowerShell 2.0 - Where are you?](https://blogs.msdn.microsoft.com/powershell/2017/08/24/windows-powershell-2-0-deprecation/)
+-	[PowerShell 2.0 - Where are you? -- Depricated!](https://blogs.msdn.microsoft.com/powershell/2017/08/24/windows-powershell-2-0-deprecation/)
 
 ???
 PS Team is serious about Deprication.  What does that mean for you, how can you find out if it will affect you.  
+--
+
+-   [PowerShell 6.0 Roadmap](https://blogs.msdn.microsoft.com/powershell/2017/07/14/powershell-6-0-roadmap-coreclr-backwards-compatibility-and-more/)
+???
+Future of powershell
+6.0 for Production this year!
+.NET Core vs .NET standard - why should you care?
 --
 
 -	[PSSwagger – Automatically generate PowerShell cmdlets from OpenAPI (f.k.a Swagger) specification](https://blogs.msdn.microsoft.com/powershell/2017/08/15/psswagger-automatically-generate-powershell-cmdlets-from-openapi-f-k-a-swagger-specification/)
@@ -48,7 +55,8 @@ Docs.microsoft.com - easier to use / better community / no more MSDN!
     -   Steven Murawski (formerly Chef / StackExchange) - Developer Advocate
     -   Jessica Frazelle (formerly Google) - Linux/Container goddess! 
     -   Many more - [Follow them here](https://twitter.com/spboyer/lists/cloud-developer-advocates/members)
-
+-   And one has left....:-( [Ashley McGlone](https://twitter.com/GoateePFE/status/903581943022972929)
+    -   TAM for [Tanium](https://www.tanium.com/) (if you don't know the product, check it out! -  SCCM Killer)
 ???
 Why do I care?  Follow these people.  They blog, they are smart, they are the new face of Microsoft.  They have the ability to make M$ first class citizens in the Linux/DevOps/ConfigMgmt world.  If you model your career in there footsteps, you will go far.
 ---
