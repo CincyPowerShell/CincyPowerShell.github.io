@@ -26,10 +26,10 @@ We can't do it without them, please take time to thank them!
 ### .center[PowerShell News]
 --
 
--	[PowerShell 2.0 - Where are you? -- Depricated!](https://blogs.msdn.microsoft.com/powershell/2017/08/24/windows-powershell-2-0-deprecation/)
+-	[PowerShell 2.0 - Where are you? -- Deprecated!](https://blogs.msdn.microsoft.com/powershell/2017/08/24/windows-powershell-2-0-deprecation/)
 
 ???
-PS Team is serious about Deprication.  What does that mean for you, how can you find out if it will affect you.  
+PS Team is serious about Deprecation.  What does that mean for you, how can you find out if it will affect you.  
 --
 
 -   [PowerShell 6.0 Roadmap](https://blogs.msdn.microsoft.com/powershell/2017/07/14/powershell-6-0-roadmap-coreclr-backwards-compatibility-and-more/)
@@ -63,11 +63,11 @@ Why do I care?  Follow these people.  They blog, they are smart, they are the ne
 
 ### .center[Future Meeting Dates]
 
-- October ??
+- October 17
 
-- November ??
+- November 14
 
-- December ??
+- December 12
 ---
 
 # Thanks for Coming!
