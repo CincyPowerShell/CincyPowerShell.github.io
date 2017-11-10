@@ -25,13 +25,13 @@ description: The Cincinnati PowerShell User Group (CincyPSUG) is a group of IT P
 navbar-links:
   About Us: "aboutus"
   Resources: "Resources"
-  OldResources:
-   - DevOps and PowerShell Resources: "/Resources.md"
-   - Learn PowerShell: "https://mva.microsoft.com/en-us/training-courses/getting-started-with-powershell-3-0-jump-start-8276"
-   - Learn DSC: "https://mva.microsoft.com/en-US/training-courses/getting-started-with-powershell-desired-state-configuration-dsc-8672"
-   - Learn Pester: "http://www.powershellmagazine.com/2014/03/12/get-started-with-pester-powershell-unit-testing-framework/"
-   - Matt McNabb's Resources: "http://mattmcnabb.github.io/resources.html"
-   - PowerShell.org: "http://Powershell.org"
+  # OldResources:
+  #  - DevOps and PowerShell Resources: "/Resources.md"
+  #  - Learn PowerShell: "https://mva.microsoft.com/en-us/training-courses/getting-started-with-powershell-3-0-jump-start-8276"
+  #  - Learn DSC: "https://mva.microsoft.com/en-US/training-courses/getting-started-with-powershell-desired-state-configuration-dsc-8672"
+  #  - Learn Pester: "http://www.powershellmagazine.com/2014/03/12/get-started-with-pester-powershell-unit-testing-framework/"
+  #  - Matt McNabb's Resources: "http://mattmcnabb.github.io/resources.html"
+  #  - PowerShell.org: "http://Powershell.org"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
