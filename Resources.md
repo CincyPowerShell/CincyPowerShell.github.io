@@ -3,25 +3,24 @@ layout: page
 title: Resources
 subtitle: DevOps Resources for the Windows IT Pro
 ---
-# DevOps for Windows Reading / Training resources
-
 ## Books / Videos / Training materials
 
-[Learn PowerShell in a month of Lunches](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-third-edition)
+[Learn PowerShell in a month of Lunches](https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-third-edition) - Great intro to PowerShell book to get you and your team more familiar with PowerShell.  Perfect for individual or lunch and learn type trainings.
 
-[Learn PowerShell Scripting in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches)
+[Learn PowerShell Scripting in a Month of Lunches](https://www.manning.com/books/learn-powershell-scripting-in-a-month-of-lunches) - A next step to the above mentioned book.  This will take you into Advanced Functions, reusable tools, and other professional scripting practices.
 
 [PowerShell.org Free e-books](https://leanpub.com/u/devopscollective) - These include Error Handling, Gotchas, Unix guide to PowerShell, Remoting Secrets and more!
 
 [The Pester Book](https://leanpub.com/pesterbook) - Pester - PowerShell Unit Testing.  The single best resource for going from 0 to expert, highly recommended if you don't have a Dev/Test background.
 
+[PowerShell Best Practices and Style Guide](https://poshcode.gitbooks.io/powershell-practice-and-style/) - Great resource for community driven best practices
+
+[PowerShell Training Videos](https://blogs.technet.microsoft.com/ashleymcglone/2016/04/01/powershell-video-training-from-microsoft/) - Most of these are free, there is some great content for Premier Customers as well.
+
 ## Remoting / Security considerations
 
 [Who's afraid of PowerShell security?](https://blogs.technet.microsoft.com/ashleymcglone/2016/06/29/whos-afraid-of-powershell-security/) - Great blog with links to tons of articles and white papers to help dispel the security myths and get conversations started your with the Security teams.
 
-[PowerShell Best Practices and Style Guide](https://poshcode.gitbooks.io/powershell-practice-and-style/) - Great resource for community driven best practices
-
-[PowerShell Training Videos](https://blogs.technet.microsoft.com/ashleymcglone/2016/04/01/powershell-video-training-from-microsoft/) - Most of these are free, there is some great content for Premier Customers as well.
 
 ## Blogs
 
@@ -33,7 +32,7 @@ subtitle: DevOps Resources for the Windows IT Pro
 
 ## Configuration Management
 
-[PowerShell DSC](https://docs.microsoft.com/en-us/powershell/dsc/overview)
+[PowerShell DSC](https://docs.microsoft.com/en-us/powershell/dsc/overview) - Microsofts built in Desired State Configuration.  A declarative Configuration Management Framework.
 
 [Learn Chef](https://learn.chef.io/#/) - Great resource for learning Chef on Windows or Linux.
 
@@ -50,7 +49,7 @@ subtitle: DevOps Resources for the Windows IT Pro
 
 [The Build and Release Pipeline Model](https://docs.microsoft.com/en-us/powershell/dsc/whitepapers#the-release-pipeline-model) - Whitepaper on how and why to do Pipelines when writing Windows Automation
 
-[How to build a professional PowerShell Modules](http://ramblingcookiemonster.github.io/Building-A-PowerShell-Module/)
+[How to build a professional PowerShell Modules](http://ramblingcookiemonster.github.io/Building-A-PowerShell-Module/) - A great framework for building Shareable PowerShell Modules.
 
 [Team City Build Server](https://powershell.org/build-server/) - PowerShell.org runs a free build server so you can CI/CD your PowerShell projects!
 
@@ -69,14 +68,13 @@ subtitle: DevOps Resources for the Windows IT Pro
 ## Containers
 [Docker for Windows](https://docs.docker.com/docker-for-windows/) - Duh, containers is where its at!
 
-[Windows and Linux Containers together on Windows - Oh my!](https://stefanscherer.github.io/run-linux-and-windows-containers-on-windows-10/)
-
+[Windows and Linux Containers together on Windows - Oh my!](https://stefanscherer.github.io/run-linux-and-windows-containers-on-windows-10/) - Yes you can.  On your windows 10 laptop, spin up a Linux container and Windows container side by side!
 
 ## Community resources
 
 [Cincinnati PowerShell Users Group](https://cincypowershell.org/) - Shameless plug, user group meeting in Mason, OH area - occasional live streams.
 
-[Missisipi PowerShell User Group](http://mspsug.com/) - Great group with live streams
+[Mississippi PowerShell User Group](http://mspsug.com/) - Great group with live streams
 
 [Maintained List of All Active PowerShell User Groups](https://social.technet.microsoft.com/wiki/contents/articles/19959.powershell-user-groups.aspx)
 
@@ -87,10 +85,12 @@ subtitle: DevOps Resources for the Windows IT Pro
 
 [PowerShell Slack](https://powershell.slack.com) - Get an invite [here](http://slack.poshcode.org/)!
 
-[PowerShell Reddit](https://www.reddit.com/r/PowerShell/)
+[PowerShell Reddit](https://www.reddit.com/r/PowerShell/) - Reddit, its where all the answers live.
 
 ## Conferences
 
-[PowerShell Saturdays](https://powershell.org/2017/05/04/announcing-the-powershell-saturday-booster-program/) - Want to host a 1 time PowerShell/DevOps event in your City?
+[PowerShell Saturdays](https://powershell.org/2017/05/04/announcing-the-powershell-saturday-booster-program/) - Want to host a 1 time PowerShell/DevOps event in your City?  This is information dedicated to help you kick-start your event.
 
 [PowerShell and DevOps Summit](https://powershell.org/summit/) - **THE** conference for the PowerShell/DevOps professional.  Meet and engage with the PowerShell Creator (Jeffrey Snover), the PowerShell Team, and the Community.  400+ level content!
+
+#### *Ideas for more Content?  Please submit a pull request [here](https://github.com/CincyPowerShell/CincyPowerShell.github.io/blob/master/Resources.md)!* 
