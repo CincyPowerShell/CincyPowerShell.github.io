@@ -11,6 +11,8 @@ title: 'November 14th 2017 - PowerShell with SharePoint Online and On-Prem'
 
 ### Sign up here: [Cincy PSUG Meetup](https://www.meetup.com/TechLife-Cincinnati/events/244268508/)
 
+### [Watch live stream here](https://www.youtube.com/watch?v=dzwnA8HADLg)
+
 ```powershell 
 PS C:\> Get-PSUG | where {$_.City -eq Cincinnati}
 ```
