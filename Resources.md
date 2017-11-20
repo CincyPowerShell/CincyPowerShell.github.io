@@ -34,6 +34,8 @@ subtitle: DevOps Resources for the Windows IT Pro
 
 [PowerShell DSC](https://docs.microsoft.com/en-us/powershell/dsc/overview) - Microsofts built in Desired State Configuration.  A declarative Configuration Management Framework.
 
+[Azure Automation DSC Overview](https://docs.microsoft.com/en-us/azure/automation/automation-dsc-overview) - Azure service that helps you manage and deploy DSC resources for cloud nodes.
+
 [Learn Chef](https://learn.chef.io/#/) - Great resource for learning Chef on Windows or Linux.
 
 [Puppet](https://puppet.com/presentations/managing-windows-puppet) - Alternative to Chef
