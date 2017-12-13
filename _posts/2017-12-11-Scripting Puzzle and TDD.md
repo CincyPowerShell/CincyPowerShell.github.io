@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'December 12th 2017 - TBD'
+title: 'December 12th 2017 - Scripting Puzzle and TDD'
 ---
 
 ## Cincinnati PowerShell User Group – December Meeting - Scripting Puzzles
