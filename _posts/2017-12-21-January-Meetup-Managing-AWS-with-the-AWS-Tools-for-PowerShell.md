@@ -3,11 +3,14 @@ layout: post
 title: 'January Meetup - Managing AWS with the AWS Tools for PowerShell'
 ---
 
-**When**: December 12th – 6PM TUESDAY - Live stream will start at approximiately 6:30PM
+**When**: January 16th – 6PM
+TUESDAY - Live stream will start at approximiately 6:30PM
 
 **Where**: [Max Technical Training, Mason, OH](https://goo.gl/maps/ijBGbvJQR3B2)
 
-**Sign up here**: [Cincy PSUG Meetup](https://www.meetup.com/TechLife-Cincinnati/events/244268532/)
+* A live stream will also be available starting at 6:30PM. Check our [twitter feed](https://twitter.com/CincyPowershell) for the URL
+
+**Sign up here if you will be there in person**: [Cincy PSUG Meetup](https://www.meetup.com/TechLife-Cincinnati/events/246097421/)
 
 ```powershell
 PS C:\> Get-PSUG | where {$_.City -eq Cincinnati}
