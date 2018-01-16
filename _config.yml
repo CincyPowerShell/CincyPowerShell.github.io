@@ -114,6 +114,10 @@ exclude:
   - CNAME
   - Vagrantfile
 
+# plugins
+plugins:
+  - jekyll-redirect-from
+
 # prose.io config
 prose:
   rooturl: '_posts'
