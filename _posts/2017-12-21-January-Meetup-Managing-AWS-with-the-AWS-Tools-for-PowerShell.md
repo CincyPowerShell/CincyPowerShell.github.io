@@ -8,7 +8,7 @@ TUESDAY - Live stream will start at approximiately 6:30PM
 
 **Where**: [Max Technical Training, Mason, OH](https://goo.gl/maps/ijBGbvJQR3B2)
 
-* A live stream will also be available starting at 6:30PM. Check our [twitter feed](https://twitter.com/CincyPowershell) for the URL
+* A [live stream](https://cincypowershell.org/livestream) will also be available starting at 6:30PM.
 
 **Sign up here if you will be there in person**: [Cincy PSUG Meetup](https://www.meetup.com/TechLife-Cincinnati/events/246097421/)
 
