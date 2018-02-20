@@ -25,6 +25,20 @@ We can't do it without them, please take time to thank them!
 
 ### .center[PowerShell News]
 
+* [Iron Scripter!](https://powershell.org/2018/01/04/iron-scripter-prequel/)
+
+--
+
+* [Developing powershell Modules for REST - 2 part series](http://asaconsultant.blogspot.com/2018/02/developing-powershell-modules-for-rest.html?_sm_au_=iJVSZvPnQtQFfTDM)
+
+--
+
+* [Using Plater to create a powershell script module template](http://mikefrobbins.com/2018/02/15/using-plaster-to-create-a-powershell-script-module-template/)
+
+--
+
+* [End of the road for Windows Powershell?](https://www.adamtheautomator.com/end-road-windows-powershell/)
+
 ---
 
 ### .center[Future Meeting Dates]
